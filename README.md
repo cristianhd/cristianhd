@@ -1,6 +1,9 @@
 
 ## Hi there 👋 Community Github 
 
+![Code typing](https://user-images.githubusercontent.com/52827841/124142124-556f3880-da60-11eb-862c-a4a69172794a.gif)
+
+
 My name is Cristian, I am interested in contributing to the tech world, since some time ago I rediscovered this passion that I love and motivates me to dream about my first job in IT.
 
 I'm finishing my studies at Henry, a very complete bootcamp that taught me the most robust technologies in the market such as: JavaScript, TypeScript, React.js, Redux, Sequelize, Express.js, PostgresSQL, among others. I am very encouraged to continue in the line of learning to achieve greater goals.
